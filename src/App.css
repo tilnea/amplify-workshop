@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+amplify-button .button{
+  border-radius: 8px;
+}
+
+amplify-authenticator {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex: 1;
+  height: 100vh;
+}
